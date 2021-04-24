@@ -5,7 +5,7 @@ The code is written in C and compiled for test with clang-7
 
 There is how it works:
 
-  Array = 8 9 3 6 3 8 1 6 4
+  <i>Array = 8 9 3 6 3 8 1 6 4
   Find the minimum and max
   Switch min and max with forst and last element
   Array = "1" 4 3 6 3 8 8 6 "9"
@@ -18,7 +18,7 @@ There is how it works:
 
   Then
   Array = 1 3 3 "4" 6 "6" 8 8 9
-  The array is ordered
+  The array is ordered</i>
 
 <b>Enjoy :)</b>
 
