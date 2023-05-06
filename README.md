@@ -7,7 +7,7 @@ There is how it works:
 
   <i>Array = 8 9 3 6 3 8 1 6 4
   Find the minimum and max
-  Switch min and max with forst and last element
+  Switch min and max with first and last element
   Array = "1" 4 3 6 3 8 8 6 "9"
 
   Then the same, but starting from 4 to 6
